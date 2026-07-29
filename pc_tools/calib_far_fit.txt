@@ -1,0 +1,2 @@
+distance_m = 0.00106 * bin_index + 1.13794
+rangeStep = 0.00106 m/bin
